@@ -1,7 +1,8 @@
 # EKS-cloudwatch
 
 # launch Cloudwatch agent to EKS 
-ClusterName=''
+
+ClusterName='' \
 RegionName=''
 FluentBitHttpPort='2020'
 FluentBitReadFromHead='Off'
